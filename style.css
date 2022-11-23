@@ -1,0 +1,61 @@
+#imagem {
+    width: 100%;
+}
+.principal{
+    background: #a0c0f0; 
+    padding: 30px;   
+}
+.titulo-principal{
+    text-align: center;
+    background: #BBBBBB; 
+}
+header{
+    background: #a0c0f0;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 5px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #327ff3;
+    text-decoration: underline;
+}   
+p {
+    text-align: center;
+    font-size: 20px;
+}
+#missao{
+    font-size: 25px;
+}
+em strong {
+    color: rgb(15, 68, 31);
+}
+.itens{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+.vantagens{
+    background: #d4d4d4;
+    padding: 20px;
+}
+.titulo-centralizado{
+    font-size: 30px;
+    text-align: center;
+    }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15% ;
+}
+.imagemvantagens{
+    width: 50%;
+}
